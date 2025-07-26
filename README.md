@@ -78,7 +78,7 @@ To build a predictive model that analyzes long-term water quality trends by appl
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/water-quality-prediction
+git clone https://ramkiran118.github.io/Mini--Project/
 
 # Navigate into the project directory
 cd water-quality-prediction
